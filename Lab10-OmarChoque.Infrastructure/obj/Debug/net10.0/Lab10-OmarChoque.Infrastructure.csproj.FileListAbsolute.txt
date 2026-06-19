@@ -1,0 +1,17 @@
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\bin\Debug\net10.0\Lab10-OmarChoque.Infrastructure.deps.json
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\bin\Debug\net10.0\Lab10-OmarChoque.Infrastructure.runtimeconfig.json
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\bin\Debug\net10.0\Lab10-OmarChoque.Infrastructure.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\bin\Debug\net10.0\Lab10-OmarChoque.Infrastructure.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\bin\Debug\net10.0\Lab10-OmarChoque.Domain.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\bin\Debug\net10.0\Lab10-OmarChoque.Domain.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.AssemblyInfo.cs
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-Om.AE472247.Up2Date
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\refint\Lab10-OmarChoque.Infrastructure.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\Lab10-OmarChoque.Infrastructure.genruntimeconfig.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Infrastructure\obj\Debug\net10.0\ref\Lab10-OmarChoque.Infrastructure.dll

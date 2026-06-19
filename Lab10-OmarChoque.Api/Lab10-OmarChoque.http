@@ -1,0 +1,6 @@
+@Lab10_OmarChoque_HostAddress = http://localhost:5133
+
+GET {{Lab10_OmarChoque_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\bin\Release\net10.0\Lab10-OmarChoque.Domain.deps.json
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\bin\Release\net10.0\Lab10-OmarChoque.Domain.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\bin\Release\net10.0\Lab10-OmarChoque.Domain.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\Lab10-OmarChoque.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\Lab10-OmarChoque.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\Lab10-OmarChoque.Domain.AssemblyInfo.cs
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\Lab10-OmarChoque.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\Lab10-OmarChoque.Domain.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\refint\Lab10-OmarChoque.Domain.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\Lab10-OmarChoque.Domain.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Domain\obj\Release\net10.0\ref\Lab10-OmarChoque.Domain.dll

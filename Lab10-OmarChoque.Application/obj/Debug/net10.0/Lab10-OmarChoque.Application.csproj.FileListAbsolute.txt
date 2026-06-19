@@ -1,0 +1,15 @@
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\bin\Debug\net10.0\Lab10-OmarChoque.Application.deps.json
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\bin\Debug\net10.0\Lab10-OmarChoque.Application.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\bin\Debug\net10.0\Lab10-OmarChoque.Application.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\bin\Debug\net10.0\Lab10-OmarChoque.Domain.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\bin\Debug\net10.0\Lab10-OmarChoque.Domain.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-OmarChoque.Application.csproj.AssemblyReference.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-OmarChoque.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-OmarChoque.Application.AssemblyInfoInputs.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-OmarChoque.Application.AssemblyInfo.cs
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-OmarChoque.Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-Om.2DD75EBA.Up2Date
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-OmarChoque.Application.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\refint\Lab10-OmarChoque.Application.dll
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\Lab10-OmarChoque.Application.pdb
+C:\Users\Windows\RiderProjects\Lab10-OmarChoque\Lab10-OmarChoque.Application\obj\Debug\net10.0\ref\Lab10-OmarChoque.Application.dll
